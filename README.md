@@ -12,12 +12,6 @@ hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
-<br>
-
 
 ## 👀 My Competitive Programming Profiles
 
