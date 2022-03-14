@@ -16,12 +16,10 @@
 
 ## :sassy_man:  About me
 - :school: I am an `Artificial intelligence engineer` at AICE
-- :trophy: `ACPC` Finalist 2021
+- :trophy: I am an award winning data scientist.
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+- :computer: I am a competitive data scientist mainly at `Zindi and Kaggle`
+- :student: I love reading books about : `artificial intelligence` and `data science`.
 
 <br>
 
