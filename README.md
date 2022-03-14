@@ -59,9 +59,9 @@ hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda%20Sheets%20-%2334A853.svg?style=plastic&logo=Anaconda&logoColor=white"></a>
+    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda%20-%2334A853.svg?style=plastic&logo=Anaconda&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Jupyter notebooks" src="https://img.shields.io/badge/Jupyter notebooks-000000?style=plastic&logo=Jupyter notebooks&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter notebooks" src="https://img.shields.io/badge/Jupyter%20notebooks-000000?style=plastic&logo=Jupyter-notebooks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
