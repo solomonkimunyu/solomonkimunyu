@@ -135,7 +135,6 @@ or <a href="mailto:solomonkimunyu@gmail.com"><b>email</b></a> me
     <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
 </p>
 
-
 <br/>
 
 ## 📊 Github Stats
