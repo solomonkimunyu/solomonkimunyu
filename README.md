@@ -23,7 +23,7 @@ or <a href="mailto:solomonkimunyu@gmail.com"><b>email</b></a> me
 
 
 ## :sassy_man:  About me
-- :school: I am an `Data scientist` at AICE
+- :school: I am an `Data scientist`
 - :trophy: I am an award winning data scientist.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive data scientist mainly at `Zindi and Kaggle`
