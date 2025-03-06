@@ -31,11 +31,6 @@ models that directly contribute to strategic business goals. Known for deliverin
 significantly accurate credit scoring models, customer churn reductions, revenue boosts, and increased financial
 security through fraud detection systems. Adept at leveraging a wide range of data technologies to provide innovative
 solutions supporting business growth and operational excellence.
-- :trophy: I am an award winning data scientist.
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive data scientist mainly at `Zindi and Kaggle`
-- :student: I love reading books about : `artificial intelligence` and `data science`.
-
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
