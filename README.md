@@ -23,7 +23,14 @@ or <a href="mailto:solomonkimunyu@gmail.com"><b>email</b></a> me
 
 
 ## :sassy_man:  About me
-- :school: I am an `Data scientist`
+- :school: Accomplished Senior Data Scientist with a proven ability to drive business transformation through advanced data
+analytics, machine learning, and AI-powered solutions. Renowned for leading high-impact projects that generate
+actionable insights, optimize customer acquisition and retention and enhance operational efficiency across diverse
+industries. Skilled in guiding cross-functional teams, developing scalable data solutions, and implementing predictive
+models that directly contribute to strategic business goals. Known for delivering measurable outcomes, such as
+significantly accurate credit scoring models, customer churn reductions, revenue boosts, and increased financial
+security through fraud detection systems. Adept at leveraging a wide range of data technologies to provide innovative
+solutions supporting business growth and operational excellence.
 - :trophy: I am an award winning data scientist.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive data scientist mainly at `Zindi and Kaggle`
